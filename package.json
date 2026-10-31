@@ -27,5 +27,8 @@
     "express-openid-connect": "^3.4.0",
     "pg": "^8.23.1",
     "qrcode": "^1.5.4"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
